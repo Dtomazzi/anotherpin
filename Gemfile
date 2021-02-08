@@ -48,7 +48,7 @@ gem 'active_link_to'
 
 gem 'simple_form'
 
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 
 gem 'mini_magick'
 
